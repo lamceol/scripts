@@ -7,5 +7,4 @@ do
    ifconfig | grep "mtu"  >> rob.txt
    echo "Done iteration $i"
    sleep 2
-   sleep 1
 done
